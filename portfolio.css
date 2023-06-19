@@ -8,6 +8,10 @@ h1{
 h2{
     font-size: 40px;
 }
+.center{
+    text-align: center;
+    color: gray;
+}
 p{
     color: dimgrey ;
     font-weight: 700;
